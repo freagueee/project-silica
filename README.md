@@ -7,3 +7,6 @@ Project Silica is made to be a client within a Python script. It is developed fo
 
 # Who are you?
 I am a C++ developer, and I spend my time making things for the Bedrock edition of Minecraft. This script is not anything special as I don't know much Python and wanted to make something fast. lol
+
+# Download
+Once finished, a release will be here. Currently in active development.

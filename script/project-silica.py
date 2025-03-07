@@ -21,7 +21,7 @@ mouse = Controller()
 # (except if it is common across two functions)
 
 rwm = ReadWriteMemory()
-process = rwm.get_process_by_name('minecraft.windows.exe')
+process = rwm.get_process_by_name('Minecraft.Windows.exe')
 
 # Globals:
 velx = process.get_pointer(0x0, offsets=[0x0])
